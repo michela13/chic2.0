@@ -132,7 +132,7 @@ Fusion360 file: http://a360.co/2nrWama
 
 ![pointB2.1](https://github.com/openfab-lab/chic2.0/blob/master/03BXL/Working%20files/pointB2.1.jpg)
 
-##### Proto 1.2
+# Proto 1.2
 ### Observation 
 d’après le proto 1.1
 Technique : 
