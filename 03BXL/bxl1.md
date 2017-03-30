@@ -132,6 +132,37 @@ Fusion360 file: http://a360.co/2nrWama
 
 ![pointB2.1](https://github.com/openfab-lab/chic2.0/blob/master/03BXL/Working%20files/pointB2.1.jpg)
 
+##### Proto 1.2
+### Observation 
+d’après le proto 1.1
+Technique : 
+- L’outil est en permanence appuyer sur la surface de dessin, même si le guide lui est levé. Cela laisse des traces de crayon entre deux dessins. 
+- La structure en accordéon est trop flexible 
+- Le guide est un peu mobile perpendiculairement.
+Usage : 
+- Le dessinateur ne peut pas voir le dessin lors de l’usage.
+- Les surfaces de dessin, celle du guide et celle de l’outil, sont mobiles et la délimitation de leurs espaces n’est pas visible avant l’usage.
+
+
+### Objectif 
+les améliorations à apporter 
+ -Meilleur visibilité pour le dessinateur
+- Améliorer la reproduction du dessin en évitant les tracés d’outil entre deux dessins
+- Stabilité des surfaces de dessin
+- Sécurité du dessinateur si l’outil est un dremel 
+
+### Moyens envisagés pour ce prototype/ Protocole
+les processus d’amélioration à apporter avec le prochain prototype
+- Rigidifier la structure en accordons : en remplaçant le MDF par de l’OSB 
+- Augmentation des dimensions de l’accordéon pour éloigner la main de l’enfant de l’outil si c’est un dremel : passage de 30 à 60 cm
+
+( discuter mais non appliqué à ce prototype : 
+- modifier la position de l’enfant par rapport à la machine
+- remplacer la structure opaque en osb par une portion de structure en plexiglass
+- créer une «table» d’accroche pour les supports de dessin et pour le pantographe 
+
+### Feedbacks 
+ce que nous avons appris de ce prototype
 
 ### C - Guide
 ### Axes?
